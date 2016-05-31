@@ -1,0 +1,4 @@
+refl 1: When I initialize a repo, it setups a bunch of hidden files that allows git to function.
+
+refl 2: The Staging area, allows to add file before commiting to repo. Its allows to batch multiple files in a commit to maintain logical flow.
+
