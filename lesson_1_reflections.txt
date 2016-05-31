@@ -1,0 +1,18 @@
+ref1-If you are continously updating code, it can be hard to keep track of changes. 
+diff -u newfile oldfile is a command to keep track of changes
+
+ref2-You can keep track of all changes since inception, and revert back
+ to old copies if necessary
+
+ref3-User defined commits makes its easier to keep track of logical changes. If the commits
+are automatic, it may make it hard to track back.
+
+ref4-Files may be dependent on each other, so it would beneficial to save multiple files
+in the on commit
+
+ref5-git log allows us to all commits to a repository in chronological order. Git diff 
+allows us to view differences between history of files
+
+ref6-Easy to revert back to old version if bus is introduced 
+
+ref7-Manging several coding projects
