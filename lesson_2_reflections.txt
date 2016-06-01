@@ -2,3 +2,12 @@ refl 1: When I initialize a repo, it setups a bunch of hidden files that allows 
 
 refl 2: The Staging area, allows to add file before commiting to repo. Its allows to batch multiple files in a commit to maintain logical flow.
 
+ref3: Add files that reflect logical change to staging area, then commit all files at once
+
+ref4: Try experimental code, without changing the original code. Testing out several different versions of the code. 
+
+ref5: It helps us see the history of git commits, as well as the branches. Determine what changes (new features etc) were made.
+
+ref6: Combine experimental code to main code. Allows or merge branched to main branch
+
+ref7: Automatic merging can make undesired changes.
